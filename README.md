@@ -34,3 +34,11 @@
 
 -----------------------------------------------------------------------------------------------------------------
 
+# For Linux
+
+    git clone this link
+    sudo su
+    cd Burpsuite-pro
+    ./Linux file
+    after completing doenload keygen & Burp will start 
+    then find the activation process
